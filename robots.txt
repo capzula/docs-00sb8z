@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-iscga4.sinartogel8gbp.site/sitemap.xml
